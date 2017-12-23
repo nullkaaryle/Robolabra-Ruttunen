@@ -1,0 +1,9 @@
+### Määrittelydokumentti
+
+Vuoden 2017 robolabrassa on projektina luoda pieni robotti, joka ohjelmoidaan itse. Robotin runko kootaan Lego Technic -palikoista ja sen ytimenä toimii Lego Mindstorms -sarjan NXT Intelligent Brick-tietokone. Ohjelmointikielenä projektissa on Java avoimen lähdekoodin leJOS NXJ:tä hyödyntäen. Koontityökaluksi (build automation utility) on valittu Gradle. Travis CI huolehtii varsinaisen koonnin tarkistuksesta ja käyttää Jacocoa apuna testien kattavuuden tutkimisessa. Raportit testeistä nähdään Codecov-palvelun avulla. Versionhallinnassa käytössä on Git ja projektin edistymistä voi seurata GitHubin kautta.
+
+ Robotin tehtävänä on toteuttaa omaa interaktiivista robottiohjelmaansa ja rutata valittuja kohteita. Käytännössä tämä tarkoittaa sitä, että robotti heilauttaa robottikättään, ja iskee kohdetta. Kohteeseen osuminen vaatii kohteen tunnistamista ja sen sijainnin laskemista. Mikäli tällaisen robotin ohjelmointi osoittuu liian helpoksi, on mahdollista lisätä robottiin toimintoja. Niitä voisi olla esimerkiksi robotin paranneltu liikkuminen, karkaava kohde, jota pitää seurata, tai vaikkapa tietyt kohteet, joita ei saa lyödä ja jotka pitää sen vuoksi erottaa oikeista rutattavista kohteista. 
+
+Robotin tulisi projektin loppuessa pystyä ruttamaan ohjelmoijan määrittelemiä kohteita. Riittäväksi tarkkuudeksi lasketaan osuminen. Lisäksi projektista täytyy olla tarpeeksi havainnoiva dokumentaatio ja koodin täytyy olla selkeää ja hyvin jaoteltua. Testien tulisi olla riittävän kattavia. GitHubista projektin repositoriota tarkkaillessa tulisi satunnaisenkin lukijan saada nopeasti halutessaan selville projektin keskeiset kohdat.
+
+Robotin täytyy pyrkiä noudattamaan robotiikan kolmea pääsääntöä.
