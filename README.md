@@ -10,9 +10,9 @@
 
 * [Dokumentaatio](https://github.com/nullkaaryle/Robolabra-Ruttunen/tree/master/Dokumentaatio)
   * [Määrittelydokumentti](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/maarittelydokumentti.md)
-  * Edistymisraportit:
+  * [Edistymisraportit](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/edistymisraportti.md):
     * [1. viikon edistymisraportti](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/edistymisraportti.md#1-viikko-ajanjakso-ti-1912---la-23122017)
-  * [Projektin tuntikirjanpito](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/maarittelydokumentti.md)
+  * [Projektin tuntikirjanpito](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/tuntikirjanpito.md)
   
   
 * * *
