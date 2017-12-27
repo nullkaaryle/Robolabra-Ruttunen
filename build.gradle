@@ -42,5 +42,5 @@ dependencies {
 }
 
 // Define the main class for the application
-mainClassName = 'App'
+mainClassName = 'org.lejos.example.HelloWorld'
 

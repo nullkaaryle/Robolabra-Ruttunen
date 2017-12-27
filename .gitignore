@@ -1,6 +1,10 @@
+.classpath
 .DS_Store
 .gradle/
 .nb-gradle/
+.project
+bin/
 build/
 gradle.properties
 gradle/
+nbproject/
