@@ -1,5 +1,22 @@
 # Edistymisraportti 
 
+## 2. palautus: ajanjakso su 24.12. - pe 29.12.2017
+### Tämä on toinen viikkoraportti ja raportti käsittää kuuden päivän ajanjakson kurssin ensimmäiseen palautuksesta toiseen palautukseen. Välissä oli myös joulunpyhät.
+
+Robotin rakentaminen on ollut mielenkiintoista. Apua olen saanut myös siskonpojalta (7v), joka on jo aiemmin rakentanut Technic-legoilla, toisin kuin minä. Jouluaattona ja lähipäivät rauhoitin robotilta, mutta olin kuitenkin apuna rakentamassa 1000+ -palaista Lego BB-8 -droidia, mikä viritti hyvin omankin robotin rakenteluun. Robotti on tällä hetkellä teline, jossa on kaksi saman suuntaista moottoria. Testasin erilaisia kokoonpanoja, mutta päädyin nyt yhteen malliin. Brick asettuu nätisti telineen juurelle omaan koloonsa. Todennäköisesti mallia pitää vielä muuttaa moneen kertaan, mutta tilanne tuntuu nyt vähän epävarmalta, koska ensimmäisestä viikosta ei ole vielä saatu palautetta. Olen tyytyväinen viikon työhön, sillä edellisen viikon ympäristön pystytys osoittautui aika oikeaksi, ja pystyin jatkamaan nyt hyvin tällä viikolla. Ensi viikolla tarkoituksena on keskittyä ohjelmointiin ja sen laatuun.
+
+### 2. palautuksen tuntikirjanpito
+Päivä | Tunnit | Kuvaus
+-----|-----|-----
+19.12.2017 | 1.0  h | Aloitustilaisuus, robotin hakeminen
+21.12.2017 | 3.0  h | Repositorion ja projektin luominen, aiheen pohdiskelua ja rekisteröityminen labtooliin, Travis ja Codecov.
+22.01.2017 | 3.0  h | Ympäristön pystytys. Projektin toiminnan tarkistus.
+23.12.2017 | 3.0  h | Määrittelydokumentin kirjoittaminen. Ensimmäisen viikkoraportin ja kirjanpidon päivitys.
+25.12.2017 | 3.0  h | Toisilla legoilla rakentelua, harjoittelua
+27.12.2017 | 4.0  h | Oman robotin rakentamista, testailua
+29.12.2017 | 2.0  h | Tämän hetkisen robottimallin viimeistely, koodi aloitettu, robotti liikkuu.
+
+
 ## 1. viikko: ajanjakso ti 19.12. - la 23.12.2017
 ### Tämä on ensimmäisen viikon viikkoraportti ja raportti käsittää viiden päivän ajanjakson kurssin alkamisesta ensimmäiseen palautukseen.
 
