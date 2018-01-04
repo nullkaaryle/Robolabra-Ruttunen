@@ -1,6 +1,6 @@
-<project name="org.lejos.example" default="uploadandrun">
+<project name="main.java.ruttunen" default="uploadandrun">
 	<description>
-    	org.lejos.example.HelloWorld build file
+    	main.java.ruttunen.Main build file
     </description>
 
 	<!-- set properties for this build -->

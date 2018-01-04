@@ -1,12 +1,8 @@
-package org.lejos.example;
+package main.java.ruttunen;
 
 import lejos.nxt.*;
 
-/**
- * Example leJOS Project with an ant build file
- * 
- */
-public class HelloWorld {
+public class Main {
 
 	public static void main(String[] args) {
 
