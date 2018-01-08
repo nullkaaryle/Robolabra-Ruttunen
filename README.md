@@ -2,11 +2,6 @@
 
 * * *
 
-[![Build Status](https://travis-ci.org/nullkaaryle/Robolabra-Ruttunen.svg?branch=master)](https://travis-ci.org/nullkaaryle/Robolabra-Ruttunen)  
- [![Code Coverage](https://img.shields.io/codecov/c/github/nullkaaryle/Robolabra-Ruttunen/master.svg)](https://codecov.io/github/nullkaaryle/Robolabra-Ruttunen/)
- 
-
-* * *
 
 * [Dokumentaatio](https://github.com/nullkaaryle/Robolabra-Ruttunen/tree/master/Dokumentaatio)
   * [Määrittelydokumentti](https://github.com/nullkaaryle/Robolabra-Ruttunen/blob/master/Dokumentaatio/maarittelydokumentti.md)
